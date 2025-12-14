@@ -1,0 +1,22 @@
+:root {
+  /* Fondos */
+  --color-bg: #e6e8ec;
+  --color-bg-bk: #d2d6de;
+  /* fondo general (lado derecho) */
+  --color-panel: #151f3b;
+  /* panel azul oscuro (lado izquierdo) */
+
+  /* Texto */
+  --color-text-main: #111827;
+  --color-text-muted: #6b7280;
+
+  /* Bordes y líneas */
+  --color-border: #d1d5db;
+
+
+  /* Acentos */
+  --color-accent-blue: #255585;
+  /* puntos/líneas azules */
+  --color-accent-yellow: #f3c74a;
+  /* barra / timeline amarilla */
+}
